@@ -1,6 +1,2 @@
 qqqqqqqqqqqqqqqqqqq
-wwwwwwwwwwwwwwwwwww
-eeeeeeeeeeeeeeeeeee
-rrrrrrrrrrrrrrrrrrr
-ttttttttttttttttttt
-ddddddddddddddddddd
+wwww
